@@ -7,7 +7,5 @@ Uses ajax via Wordpress Rest API to retrieve content when node is clicked.
 
 Uses transient api to cache nodes that have been opened.
 
-Uses the themes content rendering for what's inside each accordion node.
-
-Uses collapse-o-matic plugin for show/hide functionality
+Uses collapse-o-matic plugin for show/hide functionality.
 
