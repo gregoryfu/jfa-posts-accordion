@@ -1,5 +1,5 @@
 # jfa-posts-accordion
-A wordpress plugin to show posts in an accordion for a category. Intended for the Objections category, but usable on any category.
+A wordpress plugin to show posts in an accordion for a category. Intended for the Objections category, but usable on any category. (see glf master outline)
 
 * Creates a shortcode [posts-accordion category="Category Name"].
 
