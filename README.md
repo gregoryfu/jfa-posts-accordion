@@ -5,7 +5,7 @@ A wordpress plugin to show posts in an accordion for a category.
 
 * Uses ajax via Wordpress Rest API to retrieve content when node is clicked.
 
-* cache nodes that have been opened (with wp transient api?)
+* Cache nodes that have been opened (with wp transient api?)
 
 * Uses collapse-o-matic plugin for show/hide functionality.
 
